@@ -1,0 +1,4 @@
+this is me typing on the keyboard to input text
+cat command reads what i type and convertes it to stdout which goes to file1.txt
+
+until i hit ctrl-d

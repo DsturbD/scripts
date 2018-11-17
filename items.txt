@@ -1,0 +1,6 @@
+bash
+scripting
+tutorial
+halloween
+thanksgiving
+christmas
